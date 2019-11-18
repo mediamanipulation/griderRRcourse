@@ -17,5 +17,4 @@ Spinner.defaultProps = {
     message: 'Loading...'
 }
  
-export default Spinner
-;
+export default Spinner;
